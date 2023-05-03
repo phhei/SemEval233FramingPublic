@@ -9,7 +9,7 @@ Here we present our comprehensive ensemble-framework which you can call with ``m
 
 ````text
 @inproceedings{heinisch-etal-2023-ensemble,
-    title={Team ACCEPT at SemEval-2023 Task 3: An Ensemble-based Approach to Multilingual Framing Detection},
+    title={ACCEPT at SemEval-2023 Task 3: An Ensemble-based Approach to Multilingual Framing Detection},
     author={Heinisch, Philipp and Plenz, Moritz and Frank, Anette and Cimiano, Philipp},
     booktitle = {Proceedings of the 17th International Workshop on Semantic Evaluation},
     series = {SemEval 2023},
